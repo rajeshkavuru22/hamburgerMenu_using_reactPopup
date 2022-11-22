@@ -1,0 +1,19 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.notfound {
+  width: 400px;
+  height: 400px;
+  align-self: center;
+}
+.head {
+  font-size: 24px;
+}
+.description {
+  color: #616e7c;
+  font-size: 22px;
+}
